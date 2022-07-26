@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+}
+#tarif{
+   
+   position:absolute;
+   left: 500px;
+   top:300px;
+}
+#detay{
+    position: absolute;
+    left: 500px;
+    top:200px;
+}
+#resimler{
+    position: absolute;
+    left: 40px;
+}
+#baslik{
+    position: relative;
+    left: 300px;
+}
+#onsoz{
+    position: relative;
+    left: 70px;
+}
